@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList", "ShoppingList\ShoppingList.csproj", "{7E690CED-D7C0-48C7-9CD1-91BB6083C9EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DD7CF993-5154-4DBE-A0E4-49F070AFCD28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E690CED-D7C0-48C7-9CD1-91BB6083C9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E690CED-D7C0-48C7-9CD1-91BB6083C9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E690CED-D7C0-48C7-9CD1-91BB6083C9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E690CED-D7C0-48C7-9CD1-91BB6083C9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A9497D9-CA8A-4652-A905-E57DAB44CAE8}
+	EndGlobalSection
+EndGlobal
